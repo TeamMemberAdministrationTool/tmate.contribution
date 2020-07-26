@@ -1,0 +1,25 @@
+{
+    "package": {
+        "name": "Beiträge",
+        "namespace": "contribution",
+        "version": "0.0.1",
+        "description": "Mit dieser Erweiterung können die Mitgliedsbeiträge und sonstige Zahlungen der Mitglieder mit komplexen Regeln verwaltet werden.",
+        "author": {
+            "name": "Konrad Weiß",
+            "organisation": "Logilutions",
+            "url": "http://logilutions.de",
+            "email": "info@logilutions.de"
+        },
+        "keywords": [
+            "beitrag",
+            "kosten",
+            "abgabe",
+            "finanzen",
+            "mitgliedbe"
+        ],
+        "images": {
+            "icon": "images/icon.png",
+            "banner": "images/banner.png"
+        }
+    }
+}
